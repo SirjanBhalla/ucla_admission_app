@@ -1,6 +1,9 @@
 # **UCLA ADMISSION PREDICTOR**
 A user-friendly web app that predicts your probability of admission to UCLA's graduate programs based on academic profile and research experience.
 
+### STREAMLIT APP LINK:
+https://uclaadmissionapp-whsogjiak6lip8pxk2jd9r.streamlit.app
+
 ### OVERVIEW:
 
 Input: GRE, TOEFL, University Rating, SOP, LOR, CGPA, Research Experience
