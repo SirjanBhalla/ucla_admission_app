@@ -15,7 +15,7 @@ Built with: Python, Streamlit, scikit-learn, TensorFlow, Keras
 ----------------------------------------------------------------------------------------------------------------------------
 
 ### PROJECT STRUCTURE:
-
+   ```markdown
 ucla_admission_app/
 ├── app.py
 ├── ucla_admission/
@@ -27,7 +27,7 @@ ucla_admission_app/
 │    │    └── ucla_admission_pipeline.joblib
 ├── requirements.txt
 ├── README.md
-
+```
 ----------------------------------------------------------------------------------------------------------------------------
 
 ### HOW TO RUN THE APP:
